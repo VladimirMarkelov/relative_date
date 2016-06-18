@@ -1,0 +1,6 @@
+﻿*.exe
+*.a
+*.o
+unused
+unused/*
+build/*
